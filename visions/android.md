@@ -8,6 +8,9 @@ Historically, using Swift for Android development involved relying on unofficial
 
 While Kotlin remains the recommended language for Android development, Swift's expansion offers a compelling choice for developers seeking a modern language with strong performance and safety guarantees. The ongoing work will focus on making Swift a first-class citizen on Android, ensuring that Swift applications feel native and perform optimally on the platform.
 
+## Explain what Android is
+linux kernel with Bionic libc and dynamic linker, no system libc++ available. Runs in the ART environment, Swift and C/C++ as native shared libraries that have to be accessed through JNI
+
 ## Use Cases for Swift on Android
 
 The potential applications of Swift on Android are diverse and extend beyond simply sharing code between iOS and Android.
